@@ -1,0 +1,2 @@
+(function($){'use strict';var _files;$(document).on('mousedown','input[type="file"]',function(){_files=this.files;});$(document).on('change','input[type="file"]',function(){var files=this.files;var max=parseInt(this.getAttribute('data-max-size'),10);if(files&&files[0]){if(!isNaN(max)&&max){if(files[0].size&&files[0].size>max){window.alert('File is too big! Max upload size is '+Math.floor(max/(1024*1024))+'MB');this.value=null;return;}}
+$(this).siblings('input[type="text"]').val(files[0].name);}else{this.files=_files;}});})(jQuery);
