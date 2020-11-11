@@ -5,6 +5,9 @@
 .clearfix:after {
   clear: both;
 }
+#mobile-padding-20201111T1042 {
+    display: none;
+}
 html,
 body,
 div,
@@ -831,7 +834,8 @@ img[data-gallery]:hover {
  }@media only screen and (max-width: 763px) { #XBVrcr3plwCSCfIre2QNEshEWDD2DGoP { width:205px;height:204px;top:909.95837402344px;left:57.500004768372px;display:block; }
  }@media only screen and (max-width: 763px) { #LQP5ZIi6bU8VzxGX4DBWKTEk48Ez6bRy { width:270.958px;height:53.9792px;top:512.37506103516px;left:24.520833015442px;z-index:100013;background-color:transparent;background-image: -webkit-linear-gradient(180deg, #ffd300, #ffd300);background-image: -moz-linear-gradient(180deg, #ffd300, #ffd300);background-image: -ms-linear-gradient(180deg, #ffd300, #ffd300);background-image: -o-linear-gradient(180deg, #ffd300, #ffd300);filter:progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffd300', endColorstr='#ffd300' );-ms-filter:"progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffd300', endColorstr='#ffd300' );";background-image: linear-gradient(180deg, #ffd300, #ffd300);border-top:5px solid #ffffff;border-left:5px solid #ffffff;border-right:5px solid #ffffff;border-bottom:5px solid #ffffff;color:#001aff;display:block; }
  }@media only screen and (max-width: 763px) { #QKTeywSqEdT9F55tWQgttyUL4z6M2DGM { display:block; }
- }@media only screen and (max-width: 763px) { #zmSlmFsVJqqV0hBJpMnBkDQvpG4p3EG4 { width:319px;height:165px;top:1233px;left:0px;z-index:100024;overflow:hidden;display:block; }
+ }@media only screen and (max-width: 763px) { #mobile-padding-20201111T1042 { display:block; }
+ }@media only screen and (max-width: 763px) { #zmSlmFsVJqqV0hBJpMnBkDQvpG4p3EG4 { width:319px;height:300px;top:1233px;left:0px;z-index:100024;overflow:hidden;display:block; }
  }@media only screen and (max-width: 763px) { #dcPZ2H5KJJCgTeEtENFeffdaVpw2hTkr { width:272px;height:151px;top:41.9375px;left:24.000000953674px;z-index:100017;display:block; }
  }@media only screen and (max-width: 763px) { #AbO5E3kIkzliAB7gNKCL93Thgbu53lHJ { width:269px;height:152px;top:285.89584350586px;left:25.500000953674px;z-index:100017;display:block; }
  }@media only screen and (max-width: 763px) { #aw0qNbToRCihk4MUCKNFdMmStV1aS1SR { width:320px;height:190px;top:289.97924804688px;left:0px;box-shadow: 1px 1px 22px #000000 ;display:block; }
